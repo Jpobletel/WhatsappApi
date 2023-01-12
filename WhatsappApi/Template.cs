@@ -1,10 +1,17 @@
-﻿namespace WhatsappApi;
+﻿using System.Runtime.Serialization;
 
+namespace WhatsappApi;
+
+[DataContract]
 public class body
 {
+    [DataMember]
     public string messaging_product { get; set; }
-    public string to { get; set; }
+    [DataMember]
+    public string? to { get; set; }
+    [DataMember]
     public string type { get; set; }
+    [DataMember]
     public template template { get; set; }
 }
 
