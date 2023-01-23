@@ -7,5 +7,4 @@ public class TemplateLoader
         templates = ContractSerialization.LoadData<List<body>>( "templates.xml");
         return templates;
     }
-
 }
