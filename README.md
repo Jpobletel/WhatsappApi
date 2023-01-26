@@ -1,6 +1,4 @@
 # WhatsappApi
-# Whatsapp API C#
-
 
 # Tabla de Contenidos 
 
@@ -9,8 +7,6 @@
  - [Testeo de Templates](#Testeo-de-Templates)
  - [Como usar la aplicacion C#](#Como-usar-la-aplicacion-C#)
  
-
-
 
 ## Creacion Cuenta Meta y App de WhatsApp
 
