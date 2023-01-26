@@ -53,8 +53,14 @@ Para enviar los mensajes en la aplicacion de C#, se debe subir un archivo JSON, 
 Una vez abierto Postman, hay que iniciar sesion y crear una nueva HTTP Request
 ![enter image description here](https://i.imgur.com/d5aiQNf.png)
 Primero, hay que registrar el access token en la seccion de headers![enter image description here](https://i.imgur.com/MnuE626.png)
+
+
 Este se compone de la key "Authorization" la cual esta acompanada de un value compuesto de la palabra Bearer + Access Token![](https://i.imgur.com/attZDCo.png)
+
+
 Si bien este solo dura 24 horas, se pueden crear uno permantente siguiendo el siguiente [tutorial](https://youtu.be/PFf6GB2E1Ao) 
+
+
 >Disclaimer: no suban el access token nunca a ningun repositorio de github ni nada parecido porque lo caducan enseguida por seguridad.
 >
 Luego, vamos al Body, en donde colocamos la seccion de *raw* y cambiamos la request por un Post en vez de un Get.
