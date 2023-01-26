@@ -134,4 +134,11 @@ Antes que todo, hay que crear un archivo con el nombre **template.json**, este c
 ```
 Una vez ya creado el archivo, hay que guardarlo en la siguiente ruta de la aplicacion:
 ```
-...\WhatsappApi\WhatsappApi\bin\Debug\n
+\WhatsappApi\WhatsappApi\bin\Debug\net6.0
+```
+
+# Costos
+
+- Los primeros 1000 mensajes al mes iniciados por la empresa son gratis, despues tienen los siguientes [valores](https://scontent.fscl25-1.fna.fbcdn.net/v/t39.8562-6/271694690_757538608982337_9121013907384599056_n.pdf?_nc_cat=102&ccb=1-7&_nc_sid=ae5e01&_nc_ohc=iqJHm_V5UFEAX9gyNvv&_nc_ht=scontent.fscl25-1.fna&oh=00_AfCoxAKhCIr4cruL6NPnOzg1tzN2LuTVriFOfhtKBqafRA&oe=63D82CBB)
+- Aqui hay un [ejemplo](https://scontent.fscl25-1.fna.fbcdn.net/v/t39.8562-6/271153354_939097227023666_4256295212935748231_n.pdf?_nc_cat=109&ccb=1-7&_nc_sid=ae5e01&_nc_ohc=RlQdW9cHaNgAX8efoAU&_nc_ht=scontent.fscl25-1.fna&oh=00_AfA_dPMscCFPXh-PjpEL1IfAnwmuxritOtSNTQPHvCsrBQ&oe=63D82114) de como funcionan los precios subidos por la misma plataforma
+- Se tiene que usar un numero que no este asociado ya a una cuenta de WhatsApp, por lo que les recomiendo comprar un chip con un numero nuevo.
