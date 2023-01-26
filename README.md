@@ -20,6 +20,7 @@ Una vez registrada la cuenta, hay que crear un bussiness account con los datos d
 ![1](https://i.imgur.com/xgjekir.png)
 Ya subidos los datos se pedira confirmar el correo ingresado.
 Elegimos la cuenta creada en la seccion superior izquierda, y luego nos vamos a la pestana de accounts/apps y anadimos una nueva![](https://i.imgur.com/Sw54SIa.png)
+
 Nos llevara otro menu en donde elegiran la opcion de bussiness y llenaran con los datos acordes.
 Creada la app se nos abrira un menu para agregar productos a la app, en donde apretaran el set up de WhatsApp y luego al boton **Start using the API**.
 
