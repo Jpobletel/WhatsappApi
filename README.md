@@ -41,7 +41,7 @@ Una vez en el menu de templates, podremos ver todas las plantillas de muestra, d
 ![enter image description here](https://i.imgur.com/oJdqlO6.png)
 En este menu podremos editar las diferentes variables del mensaje, ya sea el header, body, footer y los botones.
 una vez terminado el mensaje, vamos a agregar un sample para que la revision de la plantilla sea mas rapida.
-> **Disclaimer:** Nunca logre que me aceptaran una plantilla, lo intente reiteradas veces pero siempre me las rechazaron incluso con ejemplos copiados de youtube y demas. Yo sospecho que era por la calidad de la cuenta que tenia, ya que no tenia nada verificado ya que realmente todo estaba a mi nombre en vez de una empresa.
+> **Disclaimer:** Nunca logre que me aceptaran una plantilla, lo intente reiteradas veces pero siempre me las rechazaron incluso con ejemplos copiados de youtube y demas. Yo sospecho que era por la calidad de la cuenta que tenia, ya que no tenia nada verificado y realmente todo estaba a mi nombre en vez de una empresa.
 
 
 ## Testeo de Templates
