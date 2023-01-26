@@ -15,7 +15,7 @@
 ## Creacion Cuenta Meta y App de WhatsApp
 
 
-Primero que todo, hay que registrar una cuenta de Meta en el siguiente link: [Facebook Bussiness](https://business.facebook.com/), ya sea asociando una cuenta de facebook ya creada o creando una nueva.
+Primero que todo, hay que registrar una cuenta de Meta en el siguiente [link](https://business.facebook.com/), ya sea asociando una cuenta de facebook ya creada o creando una nueva.
 Una vez registrada la cuenta, hay que crear un bussiness account con los datos de la empresa
 ![1](https://i.imgur.com/xgjekir.png)
 Ya subidos los datos se pedira confirmar el correo ingresado.
