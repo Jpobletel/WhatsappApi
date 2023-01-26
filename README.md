@@ -6,6 +6,7 @@
  - [Creacion de Templates](#Creacion-de-Templates)
  - [Testeo de Templates](#Testeo-de-Templates)
  - [Como usar la aplicacion C#](#Como-usar-la-aplicacion-C#)
+ - [Costos](#Costos)
  
 
 ## Creacion Cuenta Meta y App de WhatsApp
