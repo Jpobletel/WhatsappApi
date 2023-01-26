@@ -10,26 +10,5 @@ public class App
         _messageSender = new MessageSender(link, token);
         var sender =_messageSender.SendMessage();
         sender.Wait();
-        // Options();
     }
-
-    public void Options()
-    {
-
-        var templates = TemplateLoader.read();
-        var index = 0;
-        Console.WriteLine("Elija la plantilla que desea utilizar");
-        foreach (var template in templates)
-        {
-            Console.WriteLine($"[{index}]: {template.template.name}");
-            index++;
-        }
-        var templateOption = View.GetIntInput(templates.Count);
-        var targetNumber = View.GetInputString("Indique el numero al que quiere enviar el mensaje");
-        templates[templateOption].to = targetNumber;
-        var sender = _messageSender.SendMessage();
-        sender.Wait();
-    }
-    
-    
 }
