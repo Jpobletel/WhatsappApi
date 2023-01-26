@@ -14,16 +14,21 @@
 Primero que todo, hay que registrar una cuenta de Meta en el siguiente [link](https://business.facebook.com/), ya sea asociando una cuenta de facebook ya creada o creando una nueva.
 Una vez registrada la cuenta, hay que crear un bussiness account con los datos de la empresa
 ![1](https://i.imgur.com/xgjekir.png)
+
 Ya subidos los datos se pedira confirmar el correo ingresado.
-Elegimos la cuenta creada en la seccion superior izquierda, y luego nos vamos a la pestana de accounts/apps y anadimos una nueva![](https://i.imgur.com/Sw54SIa.png)
+Elegimos la cuenta creada en la seccion superior izquierda, y luego nos vamos a la pestana de accounts/apps y anadimos una nueva
+
+![](https://i.imgur.com/Sw54SIa.png)
 
 Nos llevara otro menu en donde elegiran la opcion de bussiness y llenaran con los datos acordes.
 Creada la app se nos abrira un menu para agregar productos a la app, en donde apretaran el set up de WhatsApp y luego al boton **Start using the API**.
 
 Se desplegara este menu:
 ![enter image description here](https://i.imgur.com/gc0UTaU.png)
+
 En donde se podra comprobar si la app funciona agregando un numero y usando el boton de **Send message**.
 Para este punto la app solo puede enviar mensajes a numeros registrados previamente, lo cual se arregla agregando un numero de telefono en el paso 5 el cual desplegara un menu que tendran que rellenar con los datos acordes
+
 ![enter image description here](https://i.imgur.com/Ka9TrQt.png)
 
 
@@ -33,8 +38,11 @@ Por ejemplo, el boton de **Send message** de la seccion anterior usa la plantill
 Para crear templates, hay que dirigirse al link indicado en el paso dos.
 ![enter image description here](https://i.imgur.com/4cN8ikt.png)
 
+
 Una vez en el menu de templates, podremos ver todas las plantillas de muestra, donde podremos filtrarlas por categoria y lenguaje. Para crear una vamos al boton **Create template**, en donde hay que seleccionar la categoria, el nombre y el lenguaje.
 ![enter image description here](https://i.imgur.com/oJdqlO6.png)
+
+
 En este menu podremos editar las diferentes variables del mensaje, ya sea el header, body, footer y los botones.
 una vez terminado el mensaje, vamos a agregar un sample para que la revision de la plantilla sea mas rapida.
 > **Disclaimer:** Nunca logre que me aceptaran una plantilla, lo intente reiteradas veces pero siempre me las rechazaron incluso con ejemplos copiados de youtube y demas. Yo sospecho que era por la calidad de la cuenta que tenia, ya que no tenia nada verificado y realmente todo estaba a mi nombre en vez de una empresa.
